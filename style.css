@@ -30,6 +30,9 @@ h3 {
     box-sizing: border-box;
     
 }
+.Recept:hover {
+    background-color: hwb(0 51% 31%);
+}
 .Faktaruta {
     text-align: left;
     text-decoration: none;
