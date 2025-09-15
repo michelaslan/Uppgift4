@@ -42,8 +42,8 @@ h3 {
 .Faktaruta {
     text-align: left;
     text-decoration: none;
-    border: 1px solid #3f0b0b;
-    padding: 8px;
+    border: 2px solid #3f0b0b;
+    padding: 0 4px;
     margin-top: 10px;
 }
 .recept-container img {
