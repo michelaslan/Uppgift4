@@ -31,8 +31,14 @@ h3 {
     
 }
 .Recept:hover {
-    background-color: hwb(0 51% 31%);
+    background-color: #680a0a;
+    color:white
 }
+
+.Recept:hover h3 {
+    color:white;
+}
+
 .Faktaruta {
     text-align: left;
     text-decoration: none;
@@ -70,4 +76,11 @@ li {
 }
 .Foodimg {
     text-align: center;
+}
+footer {
+    background-color: #680a0a;
+}
+footer p {
+color:white;
+padding:0 0 30px 0;
 }
